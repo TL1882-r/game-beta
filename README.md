@@ -1,4 +1,4 @@
-# If you found this by browsing please leave.
+# If you haven't been sent a link to this with a link to a spreadsheet in the same email please leave.
 Add to the spreadsheet if you want to add to the game, I will put it here.
 <br><br>
 > Use this app if you want to make music for the game:<sup><sub> (you can use any app if it can use .sf2 soundfonts, this is just what I use)</sub></sup><br>
